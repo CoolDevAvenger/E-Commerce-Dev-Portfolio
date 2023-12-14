@@ -68,7 +68,7 @@ export default function Home() {
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               Freelancer providing services for programming and design content
-              needs. Join me down below and let's get cracking!
+              needs. Join me down below and let&apos;s get cracking!
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <div className="text-sm">liu.fung.940616@gmail.com</div>
@@ -83,7 +83,7 @@ export default function Home() {
           <div>
             <h3 className="text-3xl py-1 dark:text-white ">Who am I</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              I am a full-stack developer with experience in both front-end & back-end technologies. I have a master’s degree in computer application with distinction.
+              I am a full-stack developer with experience in both front-end & back-end technologies. I have a master&apos;s degree in computer application with distinction.
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               I am an experienced React developer. I have expertise on front-end skills like XHTML/HTML4-5/DHTML, CSS2-3(Cross-Browser layout IE 9+), SASS, SCSS, LESS, Materialize CSS, Twitter Bootstrap 2-3, Native JavaScript(ES5, ES6), jQuery, jQuery UI, React JS(Flux, Redux), React native. I have expertise in backend technologies such as PHP, Node JS (Express, Socket.io) and MySQL, MongoDB, PostgreSQL for database development.
@@ -116,7 +116,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 dark:text-white ">Services I offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a freelance designer and
-              developer, I've done remote work for
+              developer, I&apos;ve done remote work for
               <span className="text-teal-500"> agencies </span>
               consulted for <span className="text-teal-500">startups </span>
               and collaborated with talanted people to create digital products
@@ -149,8 +149,7 @@ export default function Home() {
                 Code your dream project
               </h3>
               <p className="py-2">
-                Do you have an idea for your next great website? Let's make it a
-                reality.
+                Do you have an idea for your next great website? Let's make it areality.
               </p>
               <h4 className="py-4 text-teal-600">Main Frameworks I Use</h4>
               <p className="text-gray-800 py-1">Wordpress</p>
@@ -180,7 +179,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 dark:text-white ">Portofolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a freelance designer and
-              developer, I've done remote work for
+              developer, I&apos;ve done remote work for
               <span className="text-teal-500"> agencies </span>
               consulted for <span className="text-teal-500">startups </span>
               and collaborated with talanted people to create digital products
