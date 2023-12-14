@@ -149,7 +149,7 @@ export default function Home() {
                 Code your dream project
               </h3>
               <p className="py-2">
-                Do you have an idea for your next great website? Let's make it areality.
+                Do you have an idea for your next great website? Let&apos;s make it areality.
               </p>
               <h4 className="py-4 text-teal-600">Main Frameworks I Use</h4>
               <p className="text-gray-800 py-1">Wordpress</p>
